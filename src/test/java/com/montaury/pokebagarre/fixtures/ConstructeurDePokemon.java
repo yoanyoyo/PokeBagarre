@@ -3,6 +3,7 @@ package com.montaury.pokebagarre.fixtures;
 import com.montaury.pokebagarre.metier.Pokemon;
 import com.montaury.pokebagarre.metier.Stats;
 
+
 public class ConstructeurDePokemon {
   private int attaque;
   private int defense;
